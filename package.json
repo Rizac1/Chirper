@@ -1,0 +1,23 @@
+{
+  "name": "api-lab",
+  "version": "1.0.0",
+  "description": "* Setup an API with a project structure like:",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rizac1/API-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rizac1/API-Lab/issues"
+  },
+  "homepage": "https://github.com/Rizac1/API-Lab#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
